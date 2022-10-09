@@ -10,5 +10,5 @@ managedNodeGroups:
     instanceType: t3a.medium
     desiredCapacity: 2
     minSize: 2
-    maxSize: 3
+    maxSize: 0
     volumeSize: 8
